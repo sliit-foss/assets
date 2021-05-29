@@ -2,4 +2,4 @@
 SLIIT FOSS Public Assets
 
 # Overall System Architecture
-[Diagram](./projects/architecture)
+[Diagram](./projects/architecture/overall-foss-system.png)
